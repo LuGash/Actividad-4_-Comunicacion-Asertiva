@@ -48,7 +48,7 @@ Otro cree que ya está lista y teme que los cambios afecten la preparación.
 ## 4. Reflexión Final
 
 ### Pregunta 1: ¿Qué errores de comunicación provocaron el conflicto? Kerner
-En esta escena se evidencia la calidad de la comunicación es  muy  importante en el grupo de trabajo, aunque surjan diferentes opiniones en un equipo. El problema surge cuando uno de los integrantes no se gestiona con respeto. la falta de escucha  y la interpretación de los mensajes genero una discusión en el equipo 
+En esta escena se evidencia la calidad de la comunicación es  muy  importante en el grupo de trabajo, aunque generen diferentes opiniones en un equipo. El problema surge cuando uno de los integrantes no se gestiona con respeto. la falta de escucha  y la interpretación de los mensajes genero una discusión en el equipo 
 
 
 ### Pregunta 2: ¿Cómo ayudó la comunicación asertiva a mejorar la situación?
