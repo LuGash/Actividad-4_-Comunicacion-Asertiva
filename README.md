@@ -2,7 +2,7 @@
 
 **Curso:** Laboratorio de Comunicación Asertiva  
 **Integrantes del grupo:**
-- Nombre Estudiante 1 (Carné)
+- Luis Angel García Vásquez 202505370
 - Kerner Baltazar Tún Xón 202505239
 - David Antonio Meza Silva 202500708
 
@@ -35,6 +35,16 @@ Otro cree que ya está lista y teme que los cambios afecten la preparación.
 
 ## 2. Mejora del Diálogo Usando Comunicación Asertiva
 
+**Estudiante A:** Hola compañeros. He estado revisando el proyecto que debemos entregar en poco tiempo, sin embargo, veo que aún le hacen falta varios puntos y no esta completo, propongo corregir eso lo más antes posible para no sufrir una sanción en la calificación.
+
+**Estudiante B:** Compañero, veo que tu propuesta es buena y busca beneficiar a todos los integrantes del grupo, pero yo pienso que probablemente no tengamos el tiempo suficiente para hacer cambios a lo que ya tenemos, y realizar una entrega fuera de tiempo puede tener una sanción mucho mayor.
+
+**Estudiante C:** Compañeros, yo pienso que tenemos poco tiempo, pero aún así, yo creo que no podemos entregar un trabajo incompleto. Pero ¿Que les parece organizarnos de una manera efectiva, para poder cumplir con lo que falta a pesar del poco tiempo?
+
+**Estudiante A:** Yo pienso que esa es una propuesta excelente, pongámonos de acuerdo para ver como distribuir lo que hace falta y terminarlo a tiempo.
+
+**Estudiante B:** Si, por mi parte veo que de esa manera si podremos completar a tiempo todo, quedemos asi compañeros.
+
 ---
 
 ## 3. Análisis de la Comunicación No Verbal (David)
@@ -63,4 +73,6 @@ Escuchar sin interrumpir permitió que ambas partes entendieran preocupación de
 Esto a su vez llevó a buscar una solución intermedia en lugar de que una postura "ganara" sobre la otra.
 En resumen, la comunicación asertiva fue de bastante ayuda para manejar el desacuerdo: pasó de ser un conflicto personal a una diferencia de opinión que se resolvió colaborativamente y sin escalar a una discusión agresiva.
 
+
 ### Pregunta 3: ¿Por qué es importante mantener una comunicación respetuosa durante el trabajo en equipo?
+Mantener una comunicación respetuosa durante el trabajo en equipo nos permite tener una mejor comunicación con todos los integrantes, aportar ideas y opiniones para avanzar de manera eficaz y rápida, también nos permite organizarnos de una buena manera sin llegar a malos entendidos o conflictos y genera un ambiente laboral agradable, donde cada integrante puede opinar y proponer cambios sin temor al rechazo o humillación. Una comunicación respetuosa da como resultado una unión como equipo y permite ponerse de acuerdo para las fechas límites de trabajo, como lo vemos en la conversación mejorada de esta actividad.
