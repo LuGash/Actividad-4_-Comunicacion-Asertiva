@@ -5,11 +5,10 @@
 - Nombre Estudiante 1 (Carné)
 - Kerner Baltazar Tún Xón 202505239
 - Nombre Estudiante 3 (Carné)
-- 
 
 ---
 
-## 1. Análisis del Problema Comunicativo
+## 1. Análisis del Problema Comunicativo (Kerner)
 
 ### Problema Principal
 El problema central es la falta de consenso y de escucha activa en grupo, lo que generó choques y confusión en la comunicación. 
@@ -48,7 +47,9 @@ Otro cree que ya está lista y teme que los cambios afecten la preparación.
 
 ## 4. Reflexión Final
 
-### Pregunta 1: ¿Qué errores de comunicación provocaron el conflicto?
+### Pregunta 1: ¿Qué errores de comunicación provocaron el conflicto? Kerner
+En esta escena se evidencia la calidad de la comunicación es  muy  importante en el grupo de trabajo, aunque surjan diferentes opiniones en un equipo. El problema surge cuando uno de los integrantes no se gestiona con respeto. la falta de escucha  y la interpretación de los mensajes genero una discusión en el equipo 
+
 
 ### Pregunta 2: ¿Cómo ayudó la comunicación asertiva a mejorar la situación?
 
