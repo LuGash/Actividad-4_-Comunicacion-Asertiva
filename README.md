@@ -27,7 +27,12 @@ Otro cree que ya está lista y teme que los cambios afecten la preparación.
 
 ### Errores de Comunicación Cometidos
 
----
+Ignorar las opiniones de los integrantes del grupo, lo que generó frustración. También  no expresarse de manera clara.
+
+Interrupciones o falta de escucha activa, impidiendo que todos participen de forma equitativa. 
+
+No pensar en los demás, es decir el miedo a perder tiempo o la necesidad de mejorar el contenido
+
 
 ## 2. Mejora del Diálogo Usando Comunicación Asertiva
 
