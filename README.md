@@ -3,21 +3,35 @@
 **Curso:** Laboratorio de Comunicación Asertiva  
 **Integrantes del grupo:**
 - Nombre Estudiante 1 (Carné)
-- Nombre Estudiante 2 (Carné)
+- Kerner Baltazar Tún Xón 202505239
 - Nombre Estudiante 3 (Carné)
-- 
 
 ---
 
-## 1. Análisis del Problema Comunicativo
+## 1. Análisis del Problema Comunicativo (Kerner)
 
 ### Problema Principal
+El problema central es la falta de consenso y de escucha activa en grupo, lo que generó choques y confusión en la comunicación. 
+
+Uno de los integrantes del grupo considera que el trabajo no está suficientemente completo y propone realizar cambios en la estructura y contenido de la presentación 
+
+Otro cree que ya está lista y teme que los cambios afecten la preparación. 
+
 
 ### Factores que Provocaron el Conflicto
+* Que los integrantes del grupo tenían varias percepciones sobre el trabajo.
+
+* Falto la empatía, ya que algunos sienten que sus ideas no son tomadas en cuenta 
+
 
 ### Errores de Comunicación Cometidos
 
----
+* Ignorar las opiniones de los integrantes del grupo, lo que generó frustración. También  no expresarse de manera clara.
+
+* Interrupciones o falta de escucha activa, impidiendo que todos participen de forma equitativa. 
+
+* No pensar en los demás, es decir el miedo a perder tiempo o la necesidad de mejorar el contenido
+
 
 ## 2. Mejora del Diálogo Usando Comunicación Asertiva
 
@@ -33,7 +47,9 @@
 
 ## 4. Reflexión Final
 
-### Pregunta 1: ¿Qué errores de comunicación provocaron el conflicto?
+### Pregunta 1: ¿Qué errores de comunicación provocaron el conflicto? Kerner
+En esta escena se evidencia la calidad de la comunicación es  muy  importante en el grupo de trabajo, aunque generen diferentes opiniones en un equipo. El problema surge cuando uno de los integrantes no se gestiona con respeto. la falta de escucha  y la interpretación de los mensajes genero una discusión en el equipo 
+
 
 ### Pregunta 2: ¿Cómo ayudó la comunicación asertiva a mejorar la situación?
 
