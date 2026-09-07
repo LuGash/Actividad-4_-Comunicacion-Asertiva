@@ -3,7 +3,7 @@
 **Curso:** Laboratorio de Comunicación Asertiva  
 **Integrantes del grupo:**
 - Nombre Estudiante 1 (Carné)
-- Nombre Estudiante 2 (Carné)
+- Kerner Baltazar Tún Xón 202505239
 - Nombre Estudiante 3 (Carné)
 - 
 
