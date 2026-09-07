@@ -12,6 +12,12 @@
 ## 1. Análisis del Problema Comunicativo
 
 ### Problema Principal
+El problema central es la falta de consenso y de escucha activa en grupo, lo que generó choques y confusión en la comunicación. 
+
+Uno de los integrantes del grupo considera que el trabajo no está suficientemente completo y propone realizar cambios en la estructura y contenido de la presentación 
+
+Otro cree que ya está lista y teme que los cambios afecten la preparación. 
+
 
 ### Factores que Provocaron el Conflicto
 
