@@ -20,6 +20,10 @@ Otro cree que ya está lista y teme que los cambios afecten la preparación.
 
 
 ### Factores que Provocaron el Conflicto
+-Que los integrantes del grupo tenían varias percepciones sobre el trabajo.
+
+-Falto la empatía, ya que algunos sienten que sus ideas no son tomadas en cuenta 
+
 
 ### Errores de Comunicación Cometidos
 
